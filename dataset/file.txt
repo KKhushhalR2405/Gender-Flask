@@ -1,0 +1,2 @@
+1) Trained svm model :
+https://drive.google.com/file/d/1CjiuWIiTLKCe8SvbbdpbrJX7T3FNGyb3/view?usp=sharing
